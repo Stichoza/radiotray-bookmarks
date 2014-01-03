@@ -1,0 +1,961 @@
+
+station name="100% House, Dance, Techno"
+	url="http://88.191.24.183:8004"
+
+station name="102 FM - ΕΡΤ3"
+	url="mms://62.103.164.228:8080/et3-102fm"
+
+station name="102nueve"
+	url="http://190.5.136.69:8000/"
+
+station name="103 FM [Reggaeton]"
+	url="http://196.40.46.209:8000/103.m3u"
+
+station name="1.FM - 1.FM's Blues channel"
+	url="http://64.62.252.130:8030"
+
+station name="1.FM - 1.FM's mega country channel"
+	url="http://216.218.159.151:8020"
+
+station name="1.FM - Alternative Rock"
+	url="http://64.71.145.130:8070"
+
+station name="1.FM - A selection from the 90s decade"
+	url="http://64.71.145.130:8065"
+
+station name="1.FM - Back 2 The 80s 2"
+	url="http://64.71.145.133:6900/"
+
+station name="1.FM - Back 2 The 80s"
+	url="http://66.220.3.52:6950/"
+
+station name="1.FM - Chillout"
+	url="http://64.71.145.130:8010"
+
+station name="1.FM - Classic Baroque"
+	url="http://64.62.253.223:9030"
+
+station name="1.FM - Disco Ball 2"
+	url="http://64.62.252.130:8100/"
+
+station name="1.FM - Disco Ball"
+	url="http://66.220.3.52:7020/"
+
+station name="1.FM - Flashback Alternatives"
+	url="http://216.66.69.100:6210"
+
+station name="1.FM - High Voltage"
+	url="http://66.220.3.52:8035"
+
+station name="60s Pop 2"
+	url="http://76.76.18.109:8754"
+
+station name="60s Pop"
+	url="http://76.76.18.109:8756"
+
+station name="6FM"
+	url="http://www.6fm.nl/listen.m3u"
+
+station name="70s POP 2"
+	url="http://76.76.15.147:9018"
+
+station name="70s POP"
+	url="http://76.76.18.103:8252"
+
+station name="70s ROCK 2"
+	url="http://76.76.18.101:8018"
+
+station name="70s ROCK"
+	url="http://76.76.18.101:8020"
+
+station name="77 FM"
+	url="http://www.77fm.net/77FM.m3u"
+
+station name="80s NEW WAVE 2"
+	url="http://76.76.15.147:9040"
+
+station name="80s NEW WAVE"
+	url="http://76.76.18.109:8660"
+
+station name="80s POP 2"
+	url="http://76.76.15.147:9022"
+
+station name="80s POP"
+	url="http://76.76.18.103:8268"
+
+station name="80s ROCK 2"
+	url="http://76.76.18.109:8698"
+
+station name="80s ROCK"
+	url="http://76.76.18.109:8700"
+
+station name="90s POP 2"
+	url="http://76.76.18.101:8074"
+
+station name="90s POP"
+	url="http://76.76.18.101:8076"
+
+station name="90s ROCK 2"
+	url="http://76.76.18.109:8722"
+
+station name="90s ROCK"
+	url="http://76.76.18.109:8724"
+
+station name="Acoustic Café 2"
+	url="http://76.76.15.147:9024"
+
+station name="Acoustic Café"
+	url="http://76.76.18.107:8436"
+
+station name="ALT COUNTRY 2"
+	url="http://76.76.18.103:8282"
+
+station name="ALT COUNTRY"
+	url="http://76.76.18.103:8284"
+
+station name="ALTERNATIVE ROCK 2"
+	url="http://76.76.18.109:8898"
+
+station name="ALTERNATIVE ROCK"
+	url="http://76.76.18.109:8900"
+
+station name="ALT ROCK CLASSICS 2"
+	url="http://76.76.18.103:8306"
+
+station name="ALT ROCK CLASSICS"
+	url="http://76.76.18.103:8308"
+
+station name="A_V_Radio"
+	url="http://213.79.86.20:9000"
+
+station name="AVRO Light"
+	url="http://145.58.33.31:8096"
+
+station name="Blazing All Today's Hottest"
+	url="http://67.130.81.18:9500/"
+
+station name="Blue Ears Blues"
+	url="http://212.48.125.69:8620"
+
+station name="BLUEGRASS 2"
+	url="http://76.76.18.107:8522"
+
+station name="BLUEGRASS"
+	url="http://76.76.18.107:8524"
+
+station name="BLUES 2"
+	url="http://76.76.18.101:8034"
+
+station name="Blues Radio UK"
+	url="http://38.96.148.26:7890"
+
+station name="BLUES"
+	url="http://76.76.18.101:8036"
+
+station name="BOnAir"
+	url="http://210.109.97.69:8000"
+
+station name="Boot Liquor 2"
+	url="http://207.200.96.230:8014"
+
+station name="Boot Liquor 3"
+	url="http://steady.somafm.com:7000"
+
+station name="Boot Liquor"
+	url="http://160.79.128.242:7002"
+
+station name="boyacaradio.com"
+	url="http://64.15.147.52:8002"
+
+station name="BrainGell"
+	url="http://208.85.242.37:8000"
+
+station name="Branding Radio"
+	url="http://78.157.220.38:8016/"
+
+station name="CHILL 2"
+	url="http://76.76.18.103:8260"
+
+station name="CHILL"
+	url="http://76.76.18.103:8258"
+
+station name="Classic Acoustic Rock 2"
+	url="http://76.76.18.101:8058"
+
+station name="Classic Acoustic Rock"
+	url="http://76.76.18.101:8060"
+
+station name="CLASSICAL 2"
+	url="http://76.76.15.147:9014"
+
+station name="CLASSICAL FAVORITES 2"
+	url="http://76.76.15.147:9026"
+
+station name="CLASSICAL FAVORITES"
+	url="http://76.76.18.107:8444"
+
+station name="Classical Guitar 2"
+	url="http://205.188.215.226:8020"
+
+station name="Classical Guitar"
+	url="http://208.122.59.30:7070"
+
+station name="CLASSICAL"
+	url="http://76.76.18.103:8236"
+
+station name="Classical WGBH 89.7-HD2"
+	url="http://64.71.145.107:8000"
+
+station name="CLASSIC COUNTRY 2"
+	url="http://76.76.15.147:9042"
+
+station name="CLASSIC COUNTRY"
+	url="http://76.76.18.109:8668"
+
+station name="CLASSIC HIP HOP 2"
+	url="http://76.76.18.101:8050"
+
+station name="CLASSIC HIP HOP"
+	url="http://76.76.18.101:8052"
+
+station name="Classic Radio"
+	url="http://classic.nxt.fi:8000/"
+
+station name="Classic Rap 2"
+	url="http://64.34.178.168:8000"
+
+station name="Classic Rap"
+	url="http://208.122.59.30:7696"
+
+station name="CLASSIC RNB 2"
+	url="http://76.76.15.147:9034"
+
+station name="CLASSIC RNB"
+	url="http://76.76.18.107:8476"
+
+station name="CLASSIC ROCK 2"
+	url="http://76.76.15.147:9044"
+
+station name="CLASSIC ROCK"
+	url="http://76.76.18.109:8676"
+
+station name="Clawfinger Radio"
+	url="http://85.214.65.118:8000"
+
+station name="Cocktail FM"
+	url="http://91.121.62.121:7450"
+
+station name="COUNTRY MIX 2"
+	url="http://76.76.18.101:8082"
+
+station name="COUNTRY MIX"
+	url="http://76.76.18.101:8084"
+
+station name="Cristal 107.9 FM"
+	url="http://75.125.211.48:9000/"
+
+station name="Cristal Classic 101.3 FM"
+	url="http://72.233.82.180:9000"
+
+station name="Dance Game Rádio"
+	url="http://81.201.56.126:8882/"
+
+station name="DANCE HITS 2"
+	url="http://76.76.18.101:8090"
+
+station name="DANCE HITS"
+	url="http://76.76.18.101:8092"
+
+station name="DarkSoul7"
+	url="http://208.109.31.194:8000"
+
+station name="DEAD 2"
+	url="http://76.76.15.147:9046"
+
+station name="DEAD"
+	url="http://76.76.18.109:8684"
+
+station name="DEEPINSIDE - DJ Sessions 2"
+	url="http://213.186.41.149:8010/"
+
+station name="DEEPINSIDE - DJ Sessions"
+	url="http://213.186.41.149:8014/"
+
+station name="DEEPINSIDE - Soulful House Station 2"
+	url="http://213.186.41.149:8042/"
+
+station name="DEEPINSIDE - Soulful House Station 3"
+	url="http://213.186.41.149:8040/"
+
+station name="DEEPINSIDE - Soulful House Station"
+	url="http://213.186.41.149:8044/"
+
+station name="DERHARDSTYLE2"
+	url="http://78.47.184.214:8000"
+
+station name="DFM"
+	url="http://209.9.229.211:80"
+
+station name="DI.FM - Are you ready for this!!"
+	url="http://209.247.146.98:8000"
+
+station name="DI.FM - A tasty assortment of DnB!"
+	url="http://207.200.96.229:8030"
+
+
+station name="DI.FM - Best sounds"
+	url="http://205.188.215.226:8006"
+
+station name="DI.FM - Hardcore 2"
+	url="http://88.191.69.69:80"
+
+station name="DI.FM - Non-stop DJ sets.. spin away!!"
+	url="http://209.247.146.100:8000"
+
+station name="DI.FM - Old school techno, trance and rave!"
+	url="http://205.188.215.225:8004"
+
+station name="DI.FM - Techno as it is!"
+	url="http://209.247.146.98:8000"
+
+station name="DISCO HITS 2"
+	url="http://76.76.15.147:9016"
+
+station name="DISCO HITS"
+	url="http://76.76.18.103:8244"
+
+station name="Doomed 2"
+	url="http://160.79.128.242:8300"
+
+station name="Doomed"
+	url="http://160.79.128.242:8302"
+
+station name="Drone Zone"
+	url="http://160.79.128.242:8008"
+
+station name="ECLECTIC 2"
+	url="http://76.76.15.147:9032"
+
+station name="ECLECTIC"
+	url="http://76.76.18.107:8468"
+
+station name="Electracks"
+	url="http://64.202.98.132:6390"
+
+station name="ETM FM CH2"
+	url="http://192.87.65.61:8200"
+
+station name="ETN.FM CH1"
+	url="http://192.87.65.61:8100"
+
+station name="Exus"
+	url="http://66.197.149.18:7054/"
+
+station name="Five Radio"
+	url="http://80.79.29.122:8111/"
+
+station name="Flashback Alternatives"
+	url="http://216.66.69.100:6208"
+
+station name="Foxy Radio"
+	url="http://78.24.9.110:10222/"
+
+station name="Frequence Sud"
+	url="http://91.121.62.121:9500"
+
+station name="Genesis"
+	url="http://66.197.149.18:7052/"
+
+station name="Good Radio Classics"
+	url="http://208.43.132.56:8084"
+
+station name="Good Radio"
+	url="http://208.43.132.56:8004"
+
+station name="GothicRadio"
+	url="http://81.92.161.34:34160"
+
+station name="GothVille"
+	url="http://85.25.134.224:8000"
+
+station name="Groove Salad 2"
+	url="http://207.200.96.226:8000"
+
+station name="Groove Salad"
+	url="http://207.200.96.228:8002"
+
+station name="GRUNGE 2"
+	url="http://76.76.18.109:8714"
+
+station name="GRUNGE"
+	url="http://76.76.18.109:8716"
+
+station name="GUITAR HEROES 2"
+	url="http://76.76.18.101:8066"
+
+station name="GUITAR HEROES"
+	url="http://76.76.18.101:8068"
+
+
+station name="HAIRBANDS 2"
+	url="http://76.76.18.103:8290"
+
+station name="HAIRBANDS"
+	url="http://76.76.18.103:8292"
+
+station name="Hard.FM"
+	url="http://85.17.146.103:8000"
+
+station name="Hard Rockin 80s"
+	url="http://64.202.98.133:9130"
+
+station name="Hard Rockin 80s"
+	url="http://64.202.98.133:9150"
+
+station name="Hard Rock Radio"
+	url="http://66.90.103.189:8894"
+
+station name="HeavyMetalRadio"
+	url="http://66.90.118.42:10542"
+
+station name="Hopecore"
+	url="http://69.5.81.70:7360"
+
+
+station name="Hottracks FM"
+	url="http://213.163.76.17:8000"
+
+station name="IDOLS 2"
+	url="http://76.76.18.109:8730"
+
+station name="IDOLS"
+	url="http://76.76.18.109:8732"
+
+station name="Illinois Street Lounge 2"
+	url="http://160.79.128.242:8500"
+
+station name="Illinois Street Lounge"
+	url="http://160.79.128.242:8502"
+
+station name="Indie Rock 2"
+	url="http://160.79.128.61:7724"
+
+station name="INDIE ROCK 2"
+	url="http://76.76.18.103:8314"
+
+station name="Indie Rock"
+	url="http://160.79.128.61:7726"
+
+station name="INDIE ROCK"
+	url="http://76.76.18.103:8316"
+
+station name="JAMBANDS 2"
+	url="http://76.76.18.107:8514"
+
+station name="JAMBANDS"
+	url="http://76.76.18.107:8516"
+
+station name="Japan-A-Radio 2"
+	url="http://209.9.227.165:9010/"
+
+station name="Japan-A-Radio"
+	url="http://209.9.227.165:8006/"
+
+station name="JAZZ STANDARDS 2"
+	url="http://76.76.15.147:9030"
+
+station name="JAZZ STANDARDS"
+	url="http://76.76.18.107:8460"
+
+station name="Jukebox"
+	url="http://85.214.103.171:9200"
+
+station name="kinkhaardschok"
+	url="http://81.173.3.25:80"
+
+station name="KJAZ"
+	url="http://205.188.215.228:8000"
+
+station name="KMStudio(2)"
+	url="http://121.88.250.93:8380/"
+
+station name="La Grosse Radio"
+	url="http://91.121.117.102:8192"
+
+
+station name="Life FM 2"
+	url="http://203.16.214.174:8040"
+
+station name="Life FM"
+	url="http://203.16.214.174:8042"
+
+station name="LOVESONGS 2"
+	url="http://76.76.18.109:8650"
+
+station name="LOVESONGS"
+	url="http://76.76.18.109:8652"
+
+station name="Magic Radio"
+	url="http://194.158.114.66:8100"
+
+station name="Magic Radio"
+	url="http://91.121.98.154:8000"
+
+station name="Mellesleg fm (100% magyar"
+	url="http://195.228.254.168:8010"
+
+station name="Mellesleg fm (100% magyar"
+	url="http://195.228.254.168:8010"
+
+station name="Mellesleg fm (electro"
+	url="http://195.228.254.168:8040"
+
+station name="Mellesleg fm (electro"
+	url="http://195.228.254.168:8040"
+
+station name="Mellesleg fm (filmzene"
+	url="http://195.228.254.168:8070"
+
+station name="Mellesleg fm (filmzene"
+	url="http://195.228.254.168:8070"
+
+station name="Mellesleg fm főadó"
+	url="http://195.228.254.168:8000"
+
+station name="Mellesleg fm főadó"
+	url="http://195.228.254.168:8000"
+
+station name="Mellesleg fm (rap"
+	url="http://195.228.254.168:8060"
+
+station name="Mellesleg fm (rap"
+	url="http://195.228.254.168:8060"
+
+station name="Mellesleg fm (rock"
+	url="http://195.228.254.168:8050"
+
+station name="Mellesleg fm (rock"
+	url="http://195.228.254.168:8050"
+
+station name="Mellesleg fm (szerkesztett"
+	url="http://195.228.254.168:8000"
+
+station name="Mellesleg fm (szerkesztett"
+	url="http://195.228.254.168:8000"
+
+station name="Metal ON"
+	url="http://77.74.198.126:9044"
+
+station name="Metal-Radio.ru"
+	url="http://85.21.236.228:8000"
+
+station name="Metal Storm"
+	url="http://67.87.110.63:8000"
+
+station name="Metrostereo 102.9 FM"
+	url="http://67.19.205.14:8102"
+
+station name="Modern Jazz 2"
+	url="http://205.188.215.227:8008"
+
+station name="Modern Jazz"
+	url="http://160.79.128.62:6128"
+
+station name="Mostly Classical"
+	url="http://208.122.59.30:7064"
+
+station name="Music that doesn't suck! 2"
+	url="http://67.159.5.139:80/"
+
+station name="Music that doesn't suck!"
+	url="http://67.159.5.139:8080/"
+
+station name="New Age COOOOL Channel"
+	url="http://222.122.131.53:8888"
+
+station name="New Age"
+	url="http://160.79.128.40:7156"
+
+
+station name="Oldies 2"
+	url="http://4.79.190.66:8000"
+
+station name="Oldies"
+	url="http://208.122.59.30:7686"
+
+station name="Only the #1 hit's from the USA 24/7 everyday"
+	url="http://81.171.50.135:9012"
+
+station name="Open Grave Radio"
+	url="http://88.191.47.193:20600"
+
+station name="PerfectProg"
+	url="http://208.53.158.131:8000"
+
+station name="PFTP"
+	url="http://84.40.30.145:8000"
+
+station name="Play RockUK"
+	url="http://87.117.200.137:80"
+
+station name="POP MIX 2"
+	url="http://76.76.18.107:8498"
+
+station name="POP MIX"
+	url="http://76.76.18.107:8500"
+
+station name="PowerTracks"
+	url="http://64.62.252.136:6670"
+
+station name="PowerUp Radio"
+	url="http://elrond.jpns.ch:8000/"
+
+station name="P-Radio"
+	url="http://87.230.83.8:80"
+
+station name="Praise and Worship 2"
+	url="http://76.76.18.101:8098"
+
+station name="Praise and Worship"
+	url="http://76.76.18.101:8100"
+
+station name="Progressive Rock 2"
+	url="http://76.76.18.109:8706"
+
+station name="Progressive Rock"
+	url="http://76.76.18.109:8708"
+
+station name="Progressive Station"
+	url="http://78.107.232.218:8000"
+
+station name="PulsRadio"
+	url="http://194.158.114.66:5000"
+
+station name="PulsRadio - www.pulsradio.com"
+	url="http://213.251.190.165:5000"
+
+station name="Pura Vibra [Various]"
+	url="http://66.7.216.22:8946/"
+
+station name="PureSound"
+	url="http://87.118.122.167:8000"
+
+station name="Pure"
+	url="http://85.92.129.232:8000"
+
+station name="R1LIVe"
+	url="http://62.75.132.17:8000"
+
+station name="Radio 105"
+	url="http://94.76.236.192:7640"
+
+station name="Radio13"
+	url="http://80.240.211.178:8000"
+
+station name="Radio 90FM"
+	url="http://78.157.220.38:8142"
+
+station name="Rádió 9"
+	url="http://82.131.209.17:8012"
+
+station name="Rádió 9"
+	url="http://82.131.209.17:8012"
+
+station name="Radio Brod"
+	url="http://212.96.160.160:7988"
+
+station name="Radio Bulo Fm"
+	url="http://96.31.81.7:19000"
+
+station name="Radio La Metro Fm 100.3"
+	url="http://87.117.205.151:1667"
+
+station name="Radio La Tropical [Tropical Music]"
+	url="http://66.7.216.22:8852"
+
+station name="Radio Ławeczka"
+	url="http://80.51.77.177:8080"
+
+station name="Radio Nigel 2"
+	url="http://209.126.212.130:8020"
+
+station name="Radio Nigel"
+	url="http://209.126.212.130:8070"
+
+station name="Radio Nuevo Tiempo"
+	url="http://66.98.168.9:9050"
+
+station name="Radio Nunspeet"
+	url="http://78.157.220.13:8176"
+
+
+station name="Radio Paradise 6"
+	url="http://64.5.58.148:80"
+
+station name="Radio Paradise 7"
+	url="http://207.200.96.226:8056"
+
+station name="Radio Paradise 9"
+	url="http://207.200.96.226:8048"
+
+station name="Radio RaBe"
+	url="http://130.92.30.101:1755"
+
+station name="Radio Radiopro"
+	url="http://216.155.130.9:8100/"
+
+station name="Radio Radiosonica"
+	url="http://64.120.148.213:7910"
+
+station name="Radio RTL"
+	url="http://81.92.237.118/"
+
+station name="Radio Sarina"
+	url="http://62.212.132.50:8428"
+
+station name="Radio Satan 666"
+	url="http://69.56.172.94:8000"
+
+station name="Radio Sofaspace"
+	url="http://80.74.149.30:9999"
+
+station name="[radio.wazee] modern alternative rock 2"
+	url="http://72.35.226.50:8206"
+
+station name="[radio.wazee] modern alternative rock"
+	url="http://209.9.238.5:9206/"
+
+station name="REAL JAZZ 2"
+	url="http://76.76.15.147:9036"
+
+station name="REAL JAZZ"
+	url="http://76.76.18.109:8644"
+
+station name="Renacer"
+	url="http://66.197.149.18:7048/"
+
+station name="RNB MIX 2"
+	url="http://76.76.18.109:8690"
+
+station name="RNB MIX"
+	url="http://76.76.18.109:8692"
+
+station name="ROCK MIX 2"
+	url="http://76.76.18.109:8890"
+
+station name="ROCK MIX"
+	url="http://76.76.18.109:8892"
+
+station name="Roots Reggae"
+	url="http://208.122.59.30:7074"
+
+station name="Safari FM"
+	url="http://83.133.127.198:8989/"
+
+station name="Salsa 2"
+	url="http://205.188.215.231:8010"
+
+station name="Salsa"
+	url="http://160.79.128.62:6138"
+
+station name="Sanctuary"
+	url="http://66.231.176.181:5400"
+
+station name="Secret Agent"
+	url="http://160.79.128.242:8082"
+
+station name="Sensation Factory"
+	url="http://78.24.9.110:11258"
+
+station name="Smoothbeats.com 5"
+	url="http://205.188.215.228:8024"
+
+station name="Smoothbeats.com"
+	url="http://205.188.215.228:8022"
+
+station name="Smooth Jazz 2"
+	url="http://208.122.59.30:7608"
+
+station name="SMOOTH JAZZ 2"
+	url="http://76.76.18.101:8004"
+
+station name="Smooth Jazz 3"
+	url="http://160.79.128.61:7606"
+
+station name="Smooth Jazz"
+	url="http://208.122.59.30:7606"
+
+station name="Smoothjazz"
+	url="http://64.15.67.14"
+
+station name="SMOOTH JAZZ"
+	url="http://76.76.18.101:8002"
+
+station name="SmoothVibes"
+	url="http://82.197.165.141:80"
+
+station name="SnakeNet Metal"
+	url="http://205.188.215.231:8016"
+
+station name="Sound 4 You"
+	url="http://85.214.82.60:4000"
+
+station name="Sound Station"
+	url="http://s2.eradia.net:9060/"
+
+station name="Soundtracks 2"
+	url="http://76.76.18.103:8322"
+
+station name="Soundtracks"
+	url="http://76.76.18.103:8324"
+
+station name="Sound Wave"
+	url="http://81.91.84.138:8040/"
+
+station name="Space Station Soma 2"
+	url="http://207.200.96.231:8012"
+
+station name="STICKMAN RADIO"
+	url="http://66.90.103.144:8136"
+
+station name="Stoopid Rookie"
+	url="http://216.222.162.114:8000"
+
+station name="SubFlow"
+	url="http://91.121.114.141:8000"
+
+station name="Sun радио"
+	url="http://shoutcast.byfly.by:88/radiosun"
+
+station name="SuomiPOP"
+	url="http://217.30.180.242:8000/rspo.mp3.m3u"
+
+station name="Super Estación [Tropical Music]"
+	url="http://196.40.46.209:8000/891"
+
+station name="Szeged - Rádio88 FM 95 4"
+	url="http://www.radio88.hu:8000"
+
+station name="Szeged - Rádio88 FM 95 4"
+	url="http://www.radio88.hu:8000"
+
+station name="The EDGE ROCKS"
+	url="http://67.43.161.248:6001"
+
+station name="TheRockRadio"
+	url="http://209.9.238.84:80"
+
+station name="The Voice"
+	url="http://83.145.249.98:80/"
+
+station name="The X"
+	url="http://209.51.162.163:5758"
+
+station name="Thugzone.com 2"
+	url="http://87.98.158.62:8000"
+
+station name="Thugzone.com 3"
+	url="http://72.8.159.118:8012"
+
+station name="Thugzone.com 4"
+	url="http://72.20.6.90:8572"
+
+station name="Thugzone.com"
+	url="http://87.98.181.169:8000"
+
+station name="Tico Sound [Rock/Various]"
+	url="http://67.212.166.178:8012"
+
+station name="TODAYS COUNTRY 2"
+	url="http://76.76.18.107:8482"
+
+station name="TODAYS COUNTRY"
+	url="http://76.76.18.107:8484"
+
+station name="TODAYS POP 2"
+	url="http://76.76.15.147:9028"
+
+station name="TODAYS POP"
+	url="http://76.76.18.107:8452"
+
+station name="TODAYS RNB and Hip Hop 2"
+	url="http://76.76.18.107:8490"
+
+station name="TODAYS RNB and Hip Hop"
+	url="http://76.76.18.107:8492"
+
+station name="TODAYS ROCK 2"
+	url="http://76.76.15.147:9010"
+
+station name="TODAYS ROCK"
+	url="http://76.76.18.101:8044"
+
+station name="Top Hits"
+	url="http://72.26.204.18:6628"
+
+station name="TranceTream"
+	url="http://195.228.75.49:8100"
+
+station name="UCV"
+	url="http://200.24.224.70:8070"
+
+station name="Uptempo Smooth Jazz 2"
+	url="http://82.149.227.171:8000"
+
+station name="Uptempo Smooth Jazz"
+	url="http://208.122.59.30:7716"
+
+station name="Urban Jamz 2"
+	url="http://208.122.59.30:7704"
+
+station name="Urban Jamz"
+	url="http://208.122.59.30:7706"
+
+station name="UrbanSoulNation"
+	url="http://67.130.81.18:9500"
+
+station name="UTEC"
+	url="http://70.32.106.32:8000/"
+
+station name="Virlands Networks"
+	url="http://207.36.17.181:9000"
+
+station name="VOCAL JAZZ 2"
+	url="http://76.76.18.101:8010"
+
+station name="VOCAL JAZZ"
+	url="http://76.76.18.101:8012"
+
+station name="VolksmusikNet"
+	url="http://208.53.158.48:8188/"
+
+station name="Waterstad FM"
+	url="http://178.19.127.6:80"
+
+station name="WHERESTHECULTURE House Radio"
+	url="http://72.233.114.175:9006"
+
+station name="Whiteys House of Music"
+	url="http://68.230.13.24:8000"
+
+station name="World Music 2"
+	url="http://160.79.128.40:7674"
+
+station name="World Music"
+	url="http://208.122.59.30:7676"
+
+station name="www.kinkfm.com"
+	url="http://81.173.3.20:80"
+
+station name="[XRM] - Alternative"
+	url="http://38.96.148.20:8000"
+
+station name="Xwave"
+	url="http://91.121.0.158:8000"
+
+station name="Zombie Radio"
+	url="http://24.211.207.151:420"
+
+station name="Zona Juvenil [Pop Music]"
+	url="http://97.74.112.196:8000"
+
