@@ -1,7 +1,7 @@
 RadioTray Bookmarks XML
 ===================
 
-Enhanced bookmarks.xml for RadioTray
+Enhanced [bookmarks.xml](blob/master/bookmarks.xml) for RadioTray
 
 ### Usage
 
